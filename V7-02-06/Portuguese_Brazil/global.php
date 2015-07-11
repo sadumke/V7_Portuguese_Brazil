@@ -2,8 +2,8 @@
 /*
 Portuguese Language Fileset
 Produced by Sandro Dumke (Sandro Dumke)
-Email: sandrodumke@phpfusionbrasil.com
-Web: http://www.phpfusionbrasil.com
+Email: sadumke@gmail.com
+Web: http://www.phpfusion-br.net
 */
 
 // Locale Settings
@@ -14,102 +14,102 @@ $locale['tinymce'] = "pt";
 $locale['phpmailer'] = "br";
 
 // Full & Short Months
-$locale['months'] = "&nbsp|Janeiro|Fevereiro|Março|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro";
+$locale['months'] = "&nbsp|Janeiro|Fevereiro|MarÃ§o|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro";
 $locale['shortmonths'] = "&nbsp|Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez";
 
 // Standard User Levels
-$locale['user0'] = "Público";
+$locale['user0'] = "PÃºblico";
 $locale['user1'] = "Membro";
 $locale['user2'] = "Administrador";
 $locale['user3'] = "Super Administrador";
-$locale['user_na'] = "Não Disponível";
-$locale['user_anonymous'] = "Usuário Anônimo";
+$locale['user_na'] = "NÃ£o DisponÃ­vel";
+$locale['user_anonymous'] = "UsuÃ¡rio AnÃ´nimo";
 // Standard User Status
 $locale['status0'] = "Ativo";
 $locale['status1'] = "Banido";
 $locale['status2'] = "Desativado";
 $locale['status3'] = "Suspenso";
-$locale['status4'] = "Banido por Medida de Segurança";
+$locale['status4'] = "Banido por Medida de SeguranÃ§a";
 $locale['status5'] = "Cancelado";
-$locale['status6'] = "Anônimo";
+$locale['status6'] = "AnÃ´nimo";
 $locale['status7'] = "Desativado";
 $locale['status8'] = "Inativo";
 // Forum Moderator Level(s)
 $locale['userf1'] = "Moderador";
 // Navigation
-$locale['global_001'] = "Navegação";
-$locale['global_002'] = "Não há links definidos\n";
+$locale['global_001'] = "NavegaÃ§Ã£o";
+$locale['global_002'] = "NÃ£o hÃ¡ links definidos\n";
 // Users Online
-$locale['global_010'] = "Usuários Online";
+$locale['global_010'] = "UsuÃ¡rios Online";
 $locale['global_011'] = "Visitantes Online";
 $locale['global_012'] = "Membros Online";
-$locale['global_013'] = "Não há Membros Online";
+$locale['global_013'] = "NÃ£o hÃ¡ Membros Online";
 $locale['global_014'] = "Membros Registrados";
 $locale['global_015'] = "Membros Desativados";
 $locale['global_016'] = "Mais Novo Membro";
 // Forum Side panel
-$locale['global_020'] = "Tópicos do Fórum";
-$locale['global_021'] = "Últimos Tópicos";
-$locale['global_022'] = "Tópicos Populares";
-$locale['global_023'] = "Nenhum Tópico criado";
+$locale['global_020'] = "TÃ³picos do FÃ³rum";
+$locale['global_021'] = "Ãšltimos TÃ³picos";
+$locale['global_022'] = "TÃ³picos Populares";
+$locale['global_023'] = "Nenhum TÃ³pico criado";
 // Comments Side panel
-$locale['global_025'] = "Últimos Comentários";
-$locale['global_026'] = "Nenhum comentário disponível";
+$locale['global_025'] = "Ãšltimos ComentÃ¡rios";
+$locale['global_026'] = "Nenhum comentÃ¡rio disponÃ­vel";
 // Articles Side panel
 $locale['global_030'] = "Artigos Recentes";
-$locale['global_031'] = "Nenhum Artigo disponível";
+$locale['global_031'] = "Nenhum Artigo disponÃ­vel";
 // Downloads Side panel
 $locale['global_032'] = "Downloads Recentes";
-$locale['global_033'] = "Nenhum Download disponível";
+$locale['global_033'] = "Nenhum Download disponÃ­vel";
 // Welcome panel
 $locale['global_035'] = "Bem-vindo";
 // Latest Active Forum Threads panel
-$locale['global_040'] = "Últimos Tópicos Ativos no Fórum";
-$locale['global_041'] = "Meus Tópicos";
+$locale['global_040'] = "Ãšltimos TÃ³picos Ativos no FÃ³rum";
+$locale['global_041'] = "Meus TÃ³picos";
 $locale['global_042'] = "Minhas Mensagens";
 $locale['global_043'] = "Novas Mensagens";
-$locale['global_044'] = "Tópico";
-$locale['global_045'] = "Visualizações";
+$locale['global_044'] = "TÃ³pico";
+$locale['global_045'] = "VisualizaÃ§Ãµes";
 $locale['global_046'] = "Respostas";
-$locale['global_047'] = "Última Mensagem";
-$locale['global_048'] = "Fórum";
+$locale['global_047'] = "Ãšltima Mensagem";
+$locale['global_048'] = "FÃ³rum";
 $locale['global_049'] = "Enviado";
 $locale['global_050'] = "Autor";
 $locale['global_051'] = "Enquete";
 $locale['global_052'] = "Movido";
-$locale['global_053'] = "Você não iniciou nenhum tópico no fórum.";
-$locale['global_054'] = "Você não enviou nenhuma mensagem no fórum.";
-$locale['global_055'] = "Há %u novas mensagens desde sua última visita.";
-$locale['global_056'] = "Tópicos Rastreados";
-$locale['global_057'] = "Opções";
+$locale['global_053'] = "VocÃª nÃ£o iniciou nenhum tÃ³pico no fÃ³rum.";
+$locale['global_054'] = "VocÃª nÃ£o enviou nenhuma mensagem no fÃ³rum.";
+$locale['global_055'] = "HÃ¡ %u novas mensagens desde sua Ãºltima visita.";
+$locale['global_056'] = "TÃ³picos Rastreados";
+$locale['global_057'] = "OpÃ§Ãµes";
 $locale['global_058'] = "Parar";
-$locale['global_059'] = "Você não está acompanhando nenhum tópico.";
-$locale['global_060'] = "Não acompanhar mais este tópico?";
+$locale['global_059'] = "VocÃª nÃ£o estÃ¡ acompanhando nenhum tÃ³pico.";
+$locale['global_060'] = "NÃ£o acompanhar mais este tÃ³pico?";
 // News & Articles
 $locale['global_070'] = "Enviado por ";
 $locale['global_071'] = "em ";
 $locale['global_072'] = "Leia Mais";
-$locale['global_073'] = " Comentários";
-$locale['global_073b'] = " Comentário";
+$locale['global_073'] = " ComentÃ¡rios";
+$locale['global_073b'] = " ComentÃ¡rio";
 $locale['global_074'] = " Leituras";
 $locale['global_075'] = "Imprimir";
 $locale['global_076'] = "Editar";
-$locale['global_077'] = "Notícias";
-$locale['global_078'] = "Nenhuma notícia foi publicada";
+$locale['global_077'] = "NotÃ­cias";
+$locale['global_078'] = "Nenhuma notÃ­cia foi publicada";
 $locale['global_079'] = "Em ";
 $locale['global_080'] = "Sem Categoria";
 // Page Navigation
 $locale['global_090'] = "Anterior";
-$locale['global_091'] = "Próxima";
-$locale['global_092'] = "Página ";
+$locale['global_091'] = "PrÃ³xima";
+$locale['global_092'] = "PÃ¡gina ";
 $locale['global_093'] = " de ";
 // Guest User Menu
 $locale['global_100'] = "Entrar";
-$locale['global_101'] = "Usuário";
+$locale['global_101'] = "UsuÃ¡rio";
 $locale['global_102'] = "Senha";
 $locale['global_103'] = "Lembrar-me";
 $locale['global_104'] = "Entrar";
-$locale['global_105'] = "Não é um membro ainda?<br /><a href='".BASEDIR."register.php' class='side'>Clique aqui</a> e registre-se.";
+$locale['global_105'] = "NÃ£o Ã© um membro ainda?<br /><a href='".BASEDIR."register.php' class='side'>Clique aqui</a> e registre-se.";
 $locale['global_106'] = "Esqueceu sua senha?<br />Solicite uma nova <a href='".BASEDIR."lostpassword.php' class='side'>aqui</a>.";
 $locale['global_107'] = "Registro";
 $locale['global_108'] = "Recuperar senha";
@@ -117,51 +117,51 @@ $locale['global_108'] = "Recuperar senha";
 $locale['global_120'] = "Editar Perfil";
 $locale['global_121'] = "Mensagens Privadas";
 $locale['global_122'] = "Lista de Membros";
-$locale['global_123'] = "Painel de Administração";
+$locale['global_123'] = "Painel de AdministraÃ§Ã£o";
 $locale['global_124'] = "Sair";
-$locale['global_125'] = "Você tem %u ";
+$locale['global_125'] = "VocÃª tem %u ";
 $locale['global_126'] = "nova mensagem";
 $locale['global_127'] = "novas mensagens";
-$locale['global_128'] = "sujeição";
-$locale['global_129'] = "sujeições";
+$locale['global_128'] = "sujeiÃ§Ã£o";
+$locale['global_129'] = "sujeiÃ§Ãµes";
 // Poll
 $locale['global_130'] = "Enquete";
 $locale['global_131'] = "Votar";
-$locale['global_132'] = "Você deve entrar para votar.";
+$locale['global_132'] = "VocÃª deve entrar para votar.";
 $locale['global_133'] = "Voto";
 $locale['global_134'] = "Votos";
 $locale['global_135'] = "Votos: ";
 $locale['global_136'] = "Iniciada: ";
 $locale['global_137'] = "Finalizada: ";
 $locale['global_138'] = "Arquivo de Enquetes";
-$locale['global_139'] = "Selecione uma Enquete na lista para vê-la:";
+$locale['global_139'] = "Selecione uma Enquete na lista para vÃª-la:";
 $locale['global_140'] = "Ver";
 $locale['global_141'] = "Ver Enquete";
-$locale['global_142'] = "Não há enquetes definidas.";
+$locale['global_142'] = "NÃ£o hÃ¡ enquetes definidas.";
 
 // Captcha
-$locale['global_150'] = "Código de Validação:";
-$locale['global_151'] = "Digite o código de validação:";
+$locale['global_150'] = "CÃ³digo de ValidaÃ§Ã£o:";
+$locale['global_151'] = "Digite o cÃ³digo de validaÃ§Ã£o:";
 
 // Footer Counter
-$locale['global_170'] = "visita única";
-$locale['global_171'] = "visitas únicas";
-$locale['global_172'] = "Tempo de renderização: %s segundos";
+$locale['global_170'] = "visita Ãºnica";
+$locale['global_171'] = "visitas Ãºnicas";
+$locale['global_172'] = "Tempo de renderizaÃ§Ã£o: %s segundos";
 $locale['global_173'] = "Consultas";
 // Admin Navigation
-$locale['global_180'] = "Início da Administração";
+$locale['global_180'] = "InÃ­cio da AdministraÃ§Ã£o";
 $locale['global_181'] = "Retornar ao Site";
-$locale['global_182'] = "<strong>Aviso:</strong> Senha administrativa não inserida ou incorreta.";
+$locale['global_182'] = "<strong>Aviso:</strong> Senha administrativa nÃ£o inserida ou incorreta.";
 // Miscellaneous
-$locale['global_190'] = "Modo de Manutenção Ativado";
-$locale['global_191'] = "Seu endereço de IP está na lista negra.";
-$locale['global_192'] = "O cookie do usuário expirou. Por favor faça login novamente para continuar.";
-$locale['global_193'] = "Não foi possível criar o cookie do usuário. Por favor, certifique-se de ter os cookies ativados para poder efetuar login corretamente.";
-$locale['global_194'] = "Esta conta está suspensa.";
-$locale['global_195'] = "Esta conta não foi ativada.";
-$locale['global_196'] = "Nome de usuário e/ou senha inválidos.";
+$locale['global_190'] = "Modo de ManutenÃ§Ã£o Ativado";
+$locale['global_191'] = "Seu endereÃ§o de IP estÃ¡ na lista negra.";
+$locale['global_192'] = "O cookie do usuÃ¡rio expirou. Por favor faÃ§a login novamente para continuar.";
+$locale['global_193'] = "NÃ£o foi possÃ­vel criar o cookie do usuÃ¡rio. Por favor, certifique-se de ter os cookies ativados para poder efetuar login corretamente.";
+$locale['global_194'] = "Esta conta estÃ¡ suspensa.";
+$locale['global_195'] = "Esta conta nÃ£o foi ativada.";
+$locale['global_196'] = "Nome de usuÃ¡rio e/ou senha invÃ¡lidos.";
 $locale['global_197'] = "Por favor, aguarde enquanto lhe transferimos...<br /><br />
-[ <a href='index.php'>Ou clique aqui caso não deseje esperar</a> ]";
+[ <a href='index.php'>Ou clique aqui caso nÃ£o deseje esperar</a> ]";
 $locale['global_198'] = "<strong>Alerta:</strong> setup.php detectado. Por favor, remova-o imediatamente.";
 $locale['global_199'] = "<strong>Aviso:</strong> senha administrativa indefinida. Clique em <a href='edit_profile.php'>Editar Perfil</a> para defini-la.";
 //Titles
@@ -169,54 +169,54 @@ $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = $locale['global_200']."Busca";
 $locale['global_203'] = $locale['global_200']."FAQ";
-$locale['global_204'] = $locale['global_200']."Fórum";
+$locale['global_204'] = $locale['global_200']."FÃ³rum";
 //Themes
-$locale['global_210'] = "Ir ao conteúdo";
+$locale['global_210'] = "Ir ao conteÃºdo";
 // No themes found
 $locale['global_300'] = "Nenhum tema encontrado";
-$locale['global_301'] = "Perdão, mas esta página não pode ser exibida. Por causa de algumas circunstâncias não pôdemos encontrar nenhum tema para o site. Caso você seja administrador do site, então utilize seu cliente FTP e faça upload, para o diretório <em>themes/</em>, de qualquer tema para o <em>PHP-Fusion v7.02</em>. Após o upload do tema, cheque as suas <em>Configurações Principais</em> e verifique se o tema selecionado está na sua pasta <em>themes/</em>. Caso afirmativo, verifique se o tema selecionado possui o mesmo nome (considerando maiúsculas e minúsculas - importante em servidores baseados em UNIX) assim como escolhido na página <em>Configurações Principais</em>. Se você é um usuário comum deste site, contate o administrador pelo email ".hide_email($settings['siteemail'])." e reporte o problema.";
-$locale['global_302'] = "O tema escolhido nas Configurações Principais não existe ou está incompleto!";
+$locale['global_301'] = "PerdÃ£o, mas esta pÃ¡gina nÃ£o pode ser exibida. Por causa de algumas circunstÃ¢ncias nÃ£o pÃ´demos encontrar nenhum tema para o site. Caso vocÃª seja administrador do site, entÃ£o utilize seu cliente FTP e faÃ§a upload, para o diretÃ³rio <em>themes/</em>, de qualquer tema para o <em>PHP-Fusion v7.02</em>. ApÃ³s o upload do tema, cheque as suas <em>ConfiguraÃ§Ãµes Principais</em> e verifique se o tema selecionado estÃ¡ na sua pasta <em>themes/</em>. Caso afirmativo, verifique se o tema selecionado possui o mesmo nome (considerando maiÃºsculas e minÃºsculas - importante em servidores baseados em UNIX) assim como escolhido na pÃ¡gina <em>ConfiguraÃ§Ãµes Principais</em>. Se vocÃª Ã© um usuÃ¡rio comum deste site, contate o administrador pelo email ".hide_email($settings['siteemail'])." e reporte o problema.";
+$locale['global_302'] = "O tema escolhido nas ConfiguraÃ§Ãµes Principais nÃ£o existe ou estÃ¡ incompleto!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Oh não! Onde está o <strong>JavaScript</strong>?<br /> Seu navegador não possui JavaScript ativado ou não suportar JavaScript. Por favor, <strong>habilite o JavaScript</strong> no seu browser para visualizar corretamente este site,<br /> ou <strong>atualize</strong> para um browser que suporte JavaScript; <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='http://opera.com' rel='nofollow' title='Navegador Opera'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a> ou uma versão do <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Internet Explorer'>Internet Explorer</a> superior a versão 6.";
+$locale['global_303'] = "Oh nÃ£o! Onde estÃ¡ o <strong>JavaScript</strong>?<br /> Seu navegador nÃ£o possui JavaScript ativado ou nÃ£o suportar JavaScript. Por favor, <strong>habilite o JavaScript</strong> no seu browser para visualizar corretamente este site,<br /> ou <strong>atualize</strong> para um browser que suporte JavaScript; <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='http://opera.com' rel='nofollow' title='Navegador Opera'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a> ou uma versÃ£o do <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Internet Explorer'>Internet Explorer</a> superior a versÃ£o 6.";
 // User Management
 // Member status
 $locale['global_400'] = "suspenso";
 $locale['global_401'] = "banido";
 $locale['global_402'] = "desativado";
 $locale['global_403'] = "conta encerrada";
-$locale['global_404'] = "conta anônima";
-$locale['global_405'] = "suário anonimo";
+$locale['global_404'] = "conta anÃ´nima";
+$locale['global_405'] = "suÃ¡rio anonimo";
 $locale['global_406'] = "Esta conta foi banida pelo seguinte motivo:";
-$locale['global_407'] = "Esta conta foi suspensa até";
+$locale['global_407'] = "Esta conta foi suspensa atÃ©";
 $locale['global_408'] = " pelo seguinte motivo:";
-$locale['global_409'] = "Esta conta foi banida por motivo de segurança.";
+$locale['global_409'] = "Esta conta foi banida por motivo de seguranÃ§a.";
 $locale['global_410'] = "Motivo: ";
 $locale['global_411'] = "Esta conta foi cancelada.";
-$locale['global_412'] = "Esta é uma conta anônima, provavelmente pela inatividade.";
+$locale['global_412'] = "Esta Ã© uma conta anÃ´nima, provavelmente pela inatividade.";
 // Banning due to flooding
-$locale['global_440'] = "Banimento Automático por controle de Flood";
+$locale['global_440'] = "Banimento AutomÃ¡tico por controle de Flood";
 $locale['global_441'] = "Sua conta ".$settings['sitename']." foi banida";
-$locale['global_442'] = "Olá [USER_NAME],\n
-sua conta ".$settings['sitename']." foi observada com muitas postagens em um curto espaço de tempo pelo IP ".USER_IP.", e a mesma foi banida para evitar ataques de SPAMMERS.\n
-Entre em contato com o administrador pelo e-mail ".$settings['siteemail']." para ter a sua conta restaurada ou um relatório do motivo pelo qual a conta foi banida. \n
+$locale['global_442'] = "OlÃ¡ [USER_NAME],\n
+sua conta ".$settings['sitename']." foi observada com muitas postagens em um curto espaÃ§o de tempo pelo IP ".USER_IP.", e a mesma foi banida para evitar ataques de SPAMMERS.\n
+Entre em contato com o administrador pelo e-mail ".$settings['siteemail']." para ter a sua conta restaurada ou um relatÃ³rio do motivo pelo qual a conta foi banida. \n
 ".$settings['siteusername'];
 // Lifting of suspension
-$locale['global_450'] = "Suspensão automática restaurada pelo sistema.";
-$locale['global_451'] = "Suspensão restaurada para ".$settings['sitename'];
-$locale['global_452'] = "Olá USER_NAME,\n
-a suspensão da sua conta em ".$settings['siteurl']." foi restaurada. Suas informações de login:\n
+$locale['global_450'] = "SuspensÃ£o automÃ¡tica restaurada pelo sistema.";
+$locale['global_451'] = "SuspensÃ£o restaurada para ".$settings['sitename'];
+$locale['global_452'] = "OlÃ¡ USER_NAME,\n
+a suspensÃ£o da sua conta em ".$settings['siteurl']." foi restaurada. Suas informaÃ§Ãµes de login:\n
 Login: USER_NAME
-Senha: Ocultado por questão de segurança.\n
-Se você esqueceu a sua senha, você pode recuperar-la pelo seguinte link: LOST_PASSWORD\n\n
-Saudações,\n
+Senha: Ocultado por questÃ£o de seguranÃ§a.\n
+Se vocÃª esqueceu a sua senha, vocÃª pode recuperar-la pelo seguinte link: LOST_PASSWORD\n\n
+SaudaÃ§Ãµes,\n
 ".$settings['siteusername'];
-$locale['global_453'] = "Olá USER_NAME,\n
-A suspensão da sua conta ".$settings['siteurl']." foi restaurada.\n\n
+$locale['global_453'] = "OlÃ¡ USER_NAME,\n
+A suspensÃ£o da sua conta ".$settings['siteurl']." foi restaurada.\n\n
 Atenciosamente,\n
 ".$settings['siteusername'];
 $locale['global_454'] = "Conta reativada no site ".$settings['sitename'];
-$locale['global_455'] = "Olá USER_NAME,\n
-A última vez que logou-se no site ".$settings['siteurl']." a sua conta foi reativada e não esta mais marcada como conta inativa.\n\n
+$locale['global_455'] = "OlÃ¡ USER_NAME,\n
+A Ãºltima vez que logou-se no site ".$settings['siteurl']." a sua conta foi reativada e nÃ£o esta mais marcada como conta inativa.\n\n
 Atenciosamente,\n
 ".$settings['siteusername'];
 // Function parsebytesize()
@@ -227,12 +227,12 @@ $locale['global_463'] = "MB";
 $locale['global_464'] = "GB";
 $locale['global_465'] = "TB";
 //Safe Redirect
-$locale['global_500'] = "Você está sendo redirecionado para %s, por favor, espere. Se você não for redirecionado, clique aqui.";
+$locale['global_500'] = "VocÃª estÃ¡ sendo redirecionado para %s, por favor, espere. Se vocÃª nÃ£o for redirecionado, clique aqui.";
 
 // Captcha Locales
-$locale['global_600'] = "Código de Validação";
+$locale['global_600'] = "CÃ³digo de ValidaÃ§Ã£o";
 $locale['recaptcha'] = "pt";
 
 //Miscellaneous
-$locale['global_900'] = "Não é possível converter HEX para DEC";
+$locale['global_900'] = "NÃ£o Ã© possÃ­vel converter HEX para DEC";
 ?>
